@@ -11,7 +11,7 @@
 * **Kali Linux:** Configured within Codespaces
 
 ### 🚀 Technical Focus
-* **Languages:** Python (Top-Down), C++, Bash
+* **Languages:** Python (Top Down [begginner] ) , C++ (Begginner) , Bash
 * **Hardware:** Full specifications and architecture research (AMD & ARM)
 * **Projects:** Custom Kali-in-Codespaces setup
 

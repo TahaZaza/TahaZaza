@@ -1,6 +1,6 @@
 # Taha Zaza 👋
 
-**Grade 8 | London, ON 🇨🇦**
+**Grade 9 | London, ON 🇨🇦**
 
 ---
 
@@ -23,6 +23,5 @@
 | **OS** | Windows, Ubuntu, Kali |
 
 ### ⚡ Quick Facts
-* 🎓 Entering **Sir Frederick Banting SS** (Sept 2026)
 * 🧠 **MBTI:** ENFP
 * 🧩 Focus on technical logic and full system specs
